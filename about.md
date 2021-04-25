@@ -10,7 +10,7 @@ This blog is a place for me to condense many of my notes in my wiki into somethi
 
 1. Explanatory
 2. Exploratory
-3. Descriptive. 
+3. Descriptive
 
 I will aim for my explanatory notes to be comprehensive and only on topics that I consider myself to have sufficient command over. Exploratory posts will consists mainly of a literature review of sorts that I have gathered and consolidated with hopes of maturing it to an explanatory post one day. Finally the descriptive posts are going to be free spirited and even without purpose; they exist only as streams of my thoughts (and often opinions).
 
